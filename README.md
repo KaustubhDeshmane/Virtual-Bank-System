@@ -1,3 +1,7 @@
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 # 🏦 Virtual Bank System
 
 A desktop banking application built using **Java Swing**, **JDBC**, and **MySQL**. The system enables users to manage accounts, perform transactions, transfer funds, view transaction history, and update profile information through an interactive graphical interface.
